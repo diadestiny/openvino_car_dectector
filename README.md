@@ -1,0 +1,2 @@
+# openvino_car_dectector
+基于openvino的路面分割、驾驶员人脸关键点检测、车辆检测例程
